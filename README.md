@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 ![](https://skillicons.dev/icons?i=html,css,js,react,python)
 
 ![](https://github-readme-stats.vercel.app/apiusername=furuyashikiiori&show_icons=true&theme=compact)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furuyashikiiori&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=furuyashikiiori&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furuyashikiiori&theme=aura_dark&utcOffset=8)
