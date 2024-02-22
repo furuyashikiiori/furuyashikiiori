@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 ![](https://skillicons.dev/icons?i=html,css,js,react,python)
 
-![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/apiusername=furuyashikiiori&show_icons=true&theme=compact)
+![](https://github-readme-stats.vercel.app/apiusername=furuyashikiiori&show_icons=true&theme=compact)
