@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=furuyashikiiori&show_icons=true&locale=en&layout=compact)
 
-![](https://skillicons.dev/icons?i=html,css,js,react,python,PHP)
+![](https://skillicons.dev/icons?i=html,css,js,react,python,php)
 
 ![](https://github-readme-stats.vercel.app/apiusername=furuyashikiiori&show_icons=true&theme=compact)
 
