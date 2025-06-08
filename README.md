@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furuyashikiiori&theme=aura_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=furuyashikiiori&theme=aura_dark)
 
