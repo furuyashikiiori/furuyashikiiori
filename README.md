@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=furuyashikiiori&theme=aura_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furuyashikiiori&theme=aura_dark&utcOffset=8)
